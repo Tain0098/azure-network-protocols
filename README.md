@@ -8,7 +8,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>Video Demonstration</h2>
 
-- ### [Canva: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
+- ### [Canva: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.canva.com/design/DAGY83u1CKw/WiSMuRGJmxM_apZaB7YKig/edit?utm_content=DAGY83u1CKw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h2>Environments and Technologies Used</h2>
 
