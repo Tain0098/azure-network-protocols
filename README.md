@@ -122,7 +122,7 @@ You can not see the type of the Linux VM's password but it is typing
 
 And for whatever reason sometimes the password will not work even when you got it right.
 
-In that case, go to Azure to the Linux VM and click Restart(you can also restart after creating the VM too)
+In that case, go to Azure, to the Linux VM, and click Restart(you can also restart after creating the VM)
 
 
 
